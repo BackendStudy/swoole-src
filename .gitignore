@@ -1,0 +1,7 @@
+*.udb
+src/tests/
+src/examples/
+src/core-tests/
+src/benchmark/
+src/travis/
+src/.*
