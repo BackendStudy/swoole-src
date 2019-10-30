@@ -5,3 +5,5 @@ src/core-tests/
 src/benchmark/
 src/travis/
 src/.*
+CMakeLists.txt
+.DS_Store
